@@ -5,8 +5,8 @@ name: 李迟 # 姓名
 email: li@latelee.org # 邮箱
 description: >
     这是李迟的个人主页"
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://latelee.github.io/jekyll_homepage" # the base hostname & protocol for your site
+baseurl: "/jekyll_homepage" # the subpath of your site, e.g. /blog
+url: "https://latelee.github.io" # the base hostname & protocol for your site
 # for local test
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://192.168.31.212:4000/" # the base hostname & protocol for your site
