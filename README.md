@@ -5,3 +5,7 @@
 2、模板仅有页面，没有归档文件。
 
 3、默认不让搜索引擎搜索到本网站。
+
+技能树：_includes/skillstree.html
+
+导航：_includes/nagv.html
